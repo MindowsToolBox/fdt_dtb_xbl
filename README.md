@@ -1,7 +1,7 @@
 # 835
-NX563J：努比亚Z17  
-NX595J：努比亚Z17S  
-joan：LGV30  
+[edk2]NX563J：努比亚Z17  
+[edk2]NX595J：努比亚Z17S  
+[edk2]joan：LGV30  
 mata：EssentialPhone，安卓之父  
 HTCU11  
 红魔1  
@@ -11,14 +11,14 @@ PAHM00：OPPOFindX高配版
 LGG7One  
 
 # 855&plus
-NX629J：红魔3  
-NX629J_V1S：红魔3S  
-OnePlus7：一加7，guacamoleb  
-OnePlus7TProNR：一加7TPro迈凯伦版，hotdogg  
-PCLM10：OPPORenoAce  
-alphaplus：LGG8（韩版）  
-skywalker：黑鲨2  
-htc_rtx：HTC5GHub  
+[mu]NX629J：红魔3  
+[mu]NX629J_V1S：红魔3S  
+[mu]OnePlus7：一加7，guacamoleb  
+[mu]OnePlus7TProNR：一加7TPro迈凯伦版，hotdogg  
+[mu]PCLM10：OPPORenoAce  
+[mu]alphaplus：LGG8（韩版）  
+[mu]skywalker：黑鲨2  
+[mu]htc_rtx：HTC5GHub  
 魅族16SPro
 [失败]PD1936G：iQOONeo855竞速版  
 
