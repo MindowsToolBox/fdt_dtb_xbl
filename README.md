@@ -14,17 +14,22 @@ HTCU11
 # 845
 PAHM00：OPPOFindX高配版  
 LGG7One  
+[edk2]linus：雷蛇2  
+[edk2]NX619J：红魔Mars  
+[edk2]NX606J：努比亚Z18
 
 # 855&plus
 [mu]NX629J：红魔3  
 [mu]NX629J_V1S：红魔3S  
 [mu]OnePlus7：一加7，guacamoleb  
 [mu]OnePlus7TProNR：一加7TPro迈凯伦版，hotdogg  
+[mu]OP46C3：OPPOReno10X  
 [mu]PCLM10：OPPORenoAce  
 [mu]alphaplus：LGG8（韩版）  
 [mu]skywalker：黑鲨2  
+[mu]darklighter：黑鲨2Pro  
 [mu]htc_rtx：HTC5GHub  
-魅族16SPro
+魅族16SPro  
 [失败]PD1936G：iQOONeo855竞速版  
 
 # 860
@@ -46,10 +51,12 @@ platina：小米8青春版（Lite）
 360N6Pro  
 荣耀8XMAX  
 酷比魔方XNeo  
+坚果Pro2  
 
 # 636
 whyred：红米Note5  
 小米MAX3  
+坚果Pro2特别版  
 
 # 630
 
