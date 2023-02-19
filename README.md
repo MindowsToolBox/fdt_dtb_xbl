@@ -41,6 +41,8 @@ tucana：小米CC9Pro
 H7000：步步高家教机S5  
 NX611J：努比亚Z18mini  
 lavender：红米Note7  
+jason：小米Note3
+platina：小米8青春版（Lite）
 360N6Pro  
 荣耀8XMAX  
 酷比魔方XNeo  
