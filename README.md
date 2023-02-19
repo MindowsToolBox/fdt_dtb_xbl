@@ -3,9 +3,12 @@ NX563J：努比亚Z17
 NX595J：努比亚Z17S  
 joan：LGV30  
 mata：EssentialPhone，安卓之父  
+HTCU11  
+红魔1  
 
 # 845
 PAHM00：OPPOFindX高配版  
+LGG7One  
 
 # 855&plus
 NX629J：红魔3  
@@ -16,9 +19,13 @@ PCLM10：OPPORenoAce
 alphaplus：LGG8（韩版）  
 skywalker：黑鲨2  
 htc_rtx：HTC5GHub  
+魅族16SPro
 [失败]PD1936G：iQOONeo855竞速版  
 
 # 860
+
+# 865
+ROG3  
 
 # 720G
 
@@ -29,9 +36,13 @@ tucana：小米CC9Pro
 H7000：步步高家教机S5  
 NX611J：努比亚Z18mini  
 lavender：红米Note7  
+360N6Pro  
+荣耀8XMAX  
+酷比魔方XNeo  
 
 # 636
 whyred：红米Note5  
+小米MAX3  
 
 # 630
 
