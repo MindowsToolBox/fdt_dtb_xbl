@@ -30,6 +30,7 @@
 * [mu]skywalker：黑鲨2  
 * [mu]darklighter：黑鲨2Pro  
 * [mu]htc_rtx：HTC5GHub  
+* 魅族16S  
 * 魅族16SPro  
 * [失败]PD1936G：iQOONeo855竞速版  
 
