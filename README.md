@@ -22,6 +22,7 @@
 ## 855&plus
 * mh2lm_5g：LGV50S  
 * M971Q：魅族16S  
+* OP4A89：OPPORenoACE  
 * 魅族16SPro  
 * [mu]NX629J：红魔3  
 * [mu]NX629J_V1S：红魔3S  
