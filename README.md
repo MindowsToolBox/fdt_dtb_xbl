@@ -34,6 +34,7 @@
 * [mu]skywalker：黑鲨2  
 * [mu]darklighter：黑鲨2Pro  
 * [mu]htc_rtx：HTC5GHub  
+* [mu]ASUS_I001_1：ROG2  
 * [失败]PD1936G：iQOONeo855竞速版  
 
 ## 860
