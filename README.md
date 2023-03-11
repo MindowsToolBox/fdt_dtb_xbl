@@ -17,7 +17,8 @@
 * PAHM00：OPPOFindX高配版  
 * [edk2]linus：雷蛇2  
 * [edk2]NX619J：红魔Mars  
-* [edk2]NX606J：努比亚Z18
+* [edk2]NX606J：努比亚Z18  
+* [edk2]judypn：LGV40  
 
 ## 855&plus
 * crux：小米9Pro5G  
