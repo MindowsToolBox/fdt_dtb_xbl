@@ -20,6 +20,7 @@
 * [edk2]NX606J：努比亚Z18
 
 ## 855&plus
+* crux：小米9Pro5G  
 * mh2lm_5g：LGV50S  
 * M971Q：魅族16S  
 * OP4A89：OPPORenoACE  
