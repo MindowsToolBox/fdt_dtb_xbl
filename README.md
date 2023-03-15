@@ -21,11 +21,12 @@
 * [edk2]judypn：LGV40  
 
 ## 855&plus
-* crux：小米9Pro5G  
-* mh2lm_5g：LGV50S  
-* M971Q：魅族16S  
-* OP4A89：OPPORenoACE  
+* OP7ProNRSpr：一加7Pro_5G  
 * 魅族16SPro  
+* [mu]crux：小米9Pro5G  
+* [mu]mh2lm_5g：LGV50S  
+* [mu]M971Q：魅族16S  
+* [mu]OP4A89：OPPORenoACE  
 * [edk2][mu]：LGG8X  
 * [mu]NX629J：红魔3  
 * [mu]NX629J_V1S：红魔3S  
