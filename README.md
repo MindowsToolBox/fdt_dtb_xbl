@@ -23,7 +23,7 @@
 ## 855&plus
 * OP7ProNRSpr：一加7Pro_5G  
 * 魅族16SPro  
-* [edk2需合并dtb]OnePlus7Pro：一加7Pro_4G  
+* [edk2需合并dtb]OnePlus7Pro：一加7Pro_4G，guacamole  
 * [mu]crux：小米9Pro5G  
 * [mu]mh2lm_5g：LGV50S  
 * [mu]M971Q：魅族16S  
