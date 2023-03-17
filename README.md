@@ -27,14 +27,13 @@
 * [mu]crux：小米9Pro5G  
 * [mu]mh2lm_5g：LGV50S  
 * [mu]M971Q：魅族16S  
-* [mu]OP4A89：OPPORenoACE  
 * [edk2][mu]：LGG8X  
 * [mu]NX629J：红魔3  
 * [mu]NX629J_V1S：红魔3S  
 * [mu]OnePlus7：一加7，guacamoleb  
 * [mu]OnePlus7TProNR：一加7TPro迈凯伦版，hotdogg  
 * [mu]OP46C3：OPPOReno10X  
-* [mu]PCLM10：OPPORenoAce  
+* [mu]OP4A89：OPPORenoACE  
 * [mu]alphaplus：LGG8（韩版）  
 * [mu]skywalker：黑鲨2  
 * [mu]darklighter：黑鲨2Pro  
