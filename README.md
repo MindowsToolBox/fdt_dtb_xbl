@@ -15,6 +15,7 @@
 
 ## 845
 * PAHM00：OPPOFindX高配版  
+* （三星Note9）  
 * [edk2]linus：雷蛇2  
 * [edk2]NX619J：红魔Mars  
 * [edk2]NX606J：努比亚Z18  
