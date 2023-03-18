@@ -24,6 +24,7 @@
 ## 855&plus
 * OP7ProNRSpr：一加7Pro_5G  
 * meizu16sPro：魅族16SPro，M1973  
+* [mu需与alpham合并dtb]alphaplus：LGG8  
 * [edk2需合并dtb]OnePlus7Pro：一加7Pro_4G，guacamole  
 * [mu]crux：小米9Pro5G  
 * [mu]mh2lm_5g：LGV50S  
@@ -35,7 +36,6 @@
 * [mu]OnePlus7TProNR：一加7TPro迈凯伦版，hotdogg  
 * [mu]OP46C3：OPPOReno10X  
 * [mu]OP4A89：OPPORenoACE  
-* [mu]alphaplus：LGG8（韩版）  
 * [mu]skywalker：黑鲨2  
 * [mu]darklighter：黑鲨2Pro  
 * [mu]htc_rtx：HTC5GHub  
