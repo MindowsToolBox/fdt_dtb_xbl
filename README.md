@@ -5,13 +5,14 @@
 * 没标识就是没适配  
 
 ## 835
+* htc_ocmdtwl：HTCU11+  
+* phoenix：LGG7One  
+* （HTCU11）  
+* （红魔1）  
 * [edk2]NX563J：努比亚Z17  
 * [edk2]NX595J：努比亚Z17S  
 * [edk2]joan：LGV30  
 * [edk2]mata：EssentialPhone，安卓之父【差ACPI】  
-* phoenix：LGG7One  
-* HTCU11  
-* 红魔1  
 
 ## 845
 * PAHM00：OPPOFindX高配版  
