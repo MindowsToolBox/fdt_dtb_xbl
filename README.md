@@ -28,6 +28,7 @@
 * [mu需与alphalm合并dtb]alphaplus：LGG8  
 * [edk2需合并dtb]OnePlus7Pro：一加7Pro_4G，guacamole  
 * [edk2]cepheus：小米9  
+* [mu]raphael：红米K20Pro  
 * [mu]crux：小米9Pro5G  
 * [mu]mh2lm_5g：LGV50S  
 * [mu]M971Q：魅族16S  
