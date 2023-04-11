@@ -23,6 +23,7 @@
 * [edk2]judypn：LGV40  
 
 ## 855&plus
+* [mu]NX627J：努比亚Z20  
 * [mu]zippo：联想Z6Pro  
 * [mu]RMX1931CN：RealmeX2Pro  
 * [mu]OP7ProNRSpr：一加7Pro_5G  
