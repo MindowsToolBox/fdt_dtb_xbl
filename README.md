@@ -27,7 +27,7 @@
 * [mu]RMX1931CN：RealmeX2Pro  
 * [mu]OP7ProNRSpr：一加7Pro_5G  
 * [mu]meizu16sPro：魅族16SPro，M1973  
-* [mu]meizu16T：魅族16T，M1928  
+* [mu]meizu16T：魅族16T，M1928，M928Q  
 * [mu需与alphalm合并dtb]alphaplus：LGG8  
 * [edk2需合并dtb]OnePlus7Pro：一加7Pro_4G，guacamole  
 * [edk2]cepheus：小米9  
