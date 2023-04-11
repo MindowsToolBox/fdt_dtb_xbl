@@ -23,8 +23,10 @@
 * [edk2]judypn：LGV40  
 
 ## 855&plus
-* OP7ProNRSpr：一加7Pro_5G  
-* meizu16sPro：魅族16SPro，M1973  
+* [mu]zippo：联想Z6Pro  
+* [mu]RMX1931CN：RealmeX2Pro  
+* [mu]OP7ProNRSpr：一加7Pro_5G  
+* [mu]meizu16sPro：魅族16SPro，M1973  
 * [mu]meizu16T：魅族16T，M1928  
 * [mu需与alphalm合并dtb]alphaplus：LGG8  
 * [edk2需合并dtb]OnePlus7Pro：一加7Pro_4G，guacamole  
