@@ -5,7 +5,7 @@
 * 没标识就是没适配  
 
 ## 835
-* htc_ocmdtwl：HTCU11+  
+* [edk2-need to test]htc_ocmdtwl：HTCU11+  
 * phoenix：LGG7One  
 * （HTCU11）  
 * （红魔1）  
