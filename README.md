@@ -21,6 +21,7 @@
 * [edk2]NX619J：红魔Mars  
 * [edk2]NX606J：努比亚Z18  
 * [edk2]judypn：LGV40  
+* [edk2]ASUS_Z01R_1：华硕ZenFone5Z  
 
 ## 855&plus
 * [mu]NX627J：努比亚Z20  
